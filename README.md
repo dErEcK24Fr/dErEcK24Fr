@@ -1,14 +1,53 @@
-# Hi, I'm Derecks! 👋
+<a id="top"></a>
 
-Full-Stack Developer and software engineering student. I specialize in building scalable architectures, microservices, and web applications. I'm passionate about automation, cloud deployment, and network security.
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Derecks — Full-Stack Developer. Web applications, automation and cloud." width="100%" />
+</p>
 
-## 🚀 About me
-* 🛠️ Building complete ecosystems with **NestJS**, **Node.js**, and **Angular**.
-* ☁️ Experience implementing cloud solutions, containerization with **Docker**, and modern architectures.
-* 🌐 Linux environments administrator, database optimization, and continuous deployment (CI/CD).
-* 🎮 Creator of advanced resources and scripts in Lua.
+<p align="center">
+  <b>From interactive interfaces to the infrastructure behind them.</b><br />
+  Full-Stack Developer &amp; software engineering student.
+</p>
 
-## 💻 My Tech Stack
+<p align="center">
+  <a href="#about-me">About me</a> &nbsp;·&nbsp;
+  <a href="#what-i-build">What I build</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="https://github.com/dErEcK24Fr?tab=repositories">Explore my repositories ↗</a>
+</p>
+
+---
+
+<a id="about-me"></a>
+
+## 👋 Hi, I'm Derecks
+
+I build web applications and the systems that power them. My work spans **frontend development, backend services, databases, and deployment**, with a focus on scalable architectures and automation.
+
+I enjoy connecting the pieces: an interface people can use, an API that supports it, and infrastructure that keeps it running.
+
+- 🛠️ Building application ecosystems with **Angular, NestJS, and Node.js**.
+- ☁️ Working with **cloud deployment, Docker, and CI/CD**.
+- 🐧 Administering **Linux environments** and optimizing databases.
+- 🎮 Creating advanced resources and scripts with **Lua**.
+- 🔐 Interested in **network security**, automation, and modern software architecture.
+
+<a id="what-i-build"></a>
+
+## ⚡ What I build
+
+| Area | My focus | Tools |
+| --- | --- | --- |
+| 🌐 Web & mobile | Interfaces and connected applications | Angular · React · Next.js · Ionic · Tailwind CSS |
+| ⚙️ Backend & APIs | Services, integrations, and microservices | NestJS · Node.js · TypeScript · Python · GraphQL |
+| 🗄️ Data | Persistence, queries, and caching | PostgreSQL · MongoDB · Redis |
+| ☁️ Infrastructure | Containers, deployment, and automation | Docker · AWS · Linux · CI/CD |
+| 🎮 Scripting | Custom resources and game logic | Lua |
+
+<a id="tech-stack"></a>
+
+## 🧰 Tech stack
 
 **Frontend & Mobile:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,7 +55,7 @@ Full-Stack Developer and software engineering student. I specialize in building 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend & Databases:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -34,10 +73,29 @@ Full-Stack Developer and software engineering student. I specialize in building 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-## 📊 GitHub Stats
+<a id="github-activity"></a>
+
+## 📊 GitHub activity
+
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dErEcK24Fr&show_icons=true&bg_color=0d1117&title_color=0079ff&text_color=c9d1d9&icon_color=0079ff&border_color=1f6feb" alt="GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dErEcK24Fr&layout=compact&bg_color=0d1117&title_color=0079ff&text_color=c9d1d9&border_color=1f6feb" alt="Top Languages" />
 </div>
+
+
+<sub>These cards are provided by an external service and reflect the activity GitHub makes available to it.</sub>
+
+---
+
+## 🔎 Explore my work
+
+Visit my repositories to explore the code and projects I share.
+
+**[Browse my repositories →](https://github.com/dErEcK24Fr?tab=repositories)**
+
+<p align="center">
+  <sub>Thanks for stopping by 👋</sub><br />
+  <a href="#top">Back to top ↑</a>
+</p>
