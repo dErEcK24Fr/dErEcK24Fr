@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>From interactive interfaces to the infrastructure behind them.</b><br />
-  Full-Stack Developer &amp; software engineering student.
+  <b>Web applications, APIs, and cloud infrastructure.</b><br />
+  Full-Stack Developer · Architecture · Automation.
 </p>
 
 <p align="center">
