@@ -9,12 +9,12 @@
 <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
 <rect width="1280" height="400" rx="24" fill="url(#grid)"/>
 <rect x="64" y="72" width="44" height="4" rx="2" fill="#22d3ee"/>
-<text x="124" y="81" font-family="Verdana,sans-serif" font-size="14" letter-spacing="3" fill="#a5b4fc">CODE · CONNECT · CREATE</text>
+<text x="124" y="81" font-family="Verdana,sans-serif" font-size="14" letter-spacing="3" fill="#a5b4fc">SOFTWARE DEVELOPMENT</text>
 <text x="60" y="175" font-family="Verdana,sans-serif" font-size="78" font-weight="700" fill="#f8fafc">Derecks<tspan fill="#22d3ee">.</tspan></text>
 <text x="64" y="227" font-family="Verdana,sans-serif" font-size="27" fill="#cbd5e1">Full-Stack Developer</text>
-<text x="64" y="270" font-family="Verdana,sans-serif" font-size="17" fill="#94a3b8">Web applications · Automation · Cloud</text>
+<text x="64" y="270" font-family="Verdana,sans-serif" font-size="17" fill="#94a3b8">Web Applications · APIs · Cloud</text>
 <rect x="64" y="313" width="284" height="34" rx="17" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".35"/>
-<text x="85" y="335" font-family="Verdana,sans-serif" font-size="13" fill="#67e8f9">SOFTWARE ENGINEERING STUDENT</text>
+<text x="85" y="335" font-family="Verdana,sans-serif" font-size="13" fill="#67e8f9">ARCHITECTURE · AUTOMATION</text>
 <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
 <path d="M930 110L1100 200L930 290L800 200Z"/><path d="M930 110V290M800 200H1100"/>
 <circle cx="930" cy="200" r="125" stroke-opacity=".2"/>
