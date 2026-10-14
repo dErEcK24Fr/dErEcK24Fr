@@ -1,4 +1,4 @@
-# Hi, I'm Dereck! 👋
+# Hi, I'm Derecks! 👋
 
 Full-Stack Developer and software engineering student. I specialize in building scalable architectures, microservices, and web applications. I'm passionate about automation, cloud deployment, and network security.
 
