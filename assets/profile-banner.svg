@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Derecks — Full-Stack Developer</title>
+<desc id="desc">Software engineering, web applications, automation and cloud. Navy background with cyan accents and connected architecture nodes.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#142b46"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+<rect x="64" y="72" width="44" height="4" rx="2" fill="#22d3ee"/>
+<text x="124" y="81" font-family="Verdana,sans-serif" font-size="14" letter-spacing="3" fill="#a5b4fc">CODE · CONNECT · CREATE</text>
+<text x="60" y="175" font-family="Verdana,sans-serif" font-size="78" font-weight="700" fill="#f8fafc">Derecks<tspan fill="#22d3ee">.</tspan></text>
+<text x="64" y="227" font-family="Verdana,sans-serif" font-size="27" fill="#cbd5e1">Full-Stack Developer</text>
+<text x="64" y="270" font-family="Verdana,sans-serif" font-size="17" fill="#94a3b8">Web applications · Automation · Cloud</text>
+<rect x="64" y="313" width="284" height="34" rx="17" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".35"/>
+<text x="85" y="335" font-family="Verdana,sans-serif" font-size="13" fill="#67e8f9">SOFTWARE ENGINEERING STUDENT</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+<path d="M930 110L1100 200L930 290L800 200Z"/><path d="M930 110V290M800 200H1100"/>
+<circle cx="930" cy="200" r="125" stroke-opacity=".2"/>
+</g>
+<g fill="#10243a" stroke="#22d3ee" stroke-width="2">
+<rect x="887" y="77" width="86" height="66" rx="16"/><rect x="1057" y="167" width="86" height="66" rx="16"/>
+<rect x="887" y="257" width="86" height="66" rx="16"/><rect x="757" y="167" width="86" height="66" rx="16"/>
+<circle cx="930" cy="200" r="37" stroke="#a5b4fc"/>
+</g>
+<g font-family="Verdana,sans-serif" font-size="14" text-anchor="middle" fill="#e2e8f0">
+<text x="930" y="116">WEB</text><text x="1100" y="206">API</text><text x="930" y="296">CLOUD</text><text x="800" y="206">DATA</text>
+<text x="930" y="207" font-size="20" fill="#a5b4fc">&lt;/&gt;</text>
+</g>
+<rect y="394" width="1280" height="6" fill="url(#accent)"/>
+</svg>
