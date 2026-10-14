@@ -36,8 +36,8 @@ Full-Stack Developer and software engineering student. I specialize in building 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dErEcK24Fr&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dErEcK24Fr&show_icons=true&bg_color=0d1117&title_color=0079ff&text_color=c9d1d9&icon_color=0079ff&border_color=1f6feb" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dErEcK24Fr&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dErEcK24Fr&layout=compact&bg_color=0d1117&title_color=0079ff&text_color=c9d1d9&border_color=1f6feb" alt="Top Languages" />
 </div>
